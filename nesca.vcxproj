@@ -141,16 +141,9 @@
     <ClCompile Include="$(IntDir)GeneratedFiles\qrc_nesca_3.cpp"><PrecompiledHeader>NotUsing</PrecompiledHeader></ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ActivityDrawerTh_HorNet.h" />
     <ClInclude Include="BasicAuth.h" />
     <ClInclude Include="BruteUtils.h" />
-    <ClInclude Include="CheckKey_Th.h" />
     <ClInclude Include="Connector.h" />
-    <ClInclude Include="DrawerTh_GridQoSScanner.h" />
-    <ClInclude Include="DrawerTh_HorNet.h" />
-    <ClInclude Include="DrawerTh_ME2Scanner.h" />
-    <ClInclude Include="DrawerTh_QoSScanner.h" />
-    <ClInclude Include="DrawerTh_VoiceScanner.h" />
     <ClInclude Include="FTPAuth.h" />
     <ClInclude Include="FileDownloader.h" />
     <ClInclude Include="FileUpdater.h" />
@@ -160,7 +153,6 @@
     <ClInclude Include="MainStarter.h" />
     <ClInclude Include="RTSP.h" />
     <ClInclude Include="SSHAuth.h" />
-    <ClInclude Include="STh.h" />
     <ClInclude Include="Threader.h" />
     <ClInclude Include="Utils.h" />
     <ClInclude Include="WebformWorker.h" />
@@ -168,12 +160,7 @@
     <ClInclude Include="externData.h" />
     <ClInclude Include="externFunctions.h" />
     <ClInclude Include="mainResources.h" />
-    <ClInclude Include="msgcheckerthread.h" />
-    <ClInclude Include="nesca_3.h" />
-    <ClInclude Include="piestat.h" />
-    <ClInclude Include="progressbardrawer.h" />
     <ClInclude Include="resource.h" />
-    <ClInclude Include="vercheckerthread.h" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="ActivityDrawerTh_HorNet.h">

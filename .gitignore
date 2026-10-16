@@ -16,7 +16,9 @@ imp2.txt
 *.dll
 logs/*
 *.vcxproj.*
+!nesca.vcxproj.filters
 *.vcxproj
+!nesca.vcxproj
 *.aps
 *.svg
 Release/*
